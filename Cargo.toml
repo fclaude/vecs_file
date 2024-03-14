@@ -1,0 +1,13 @@
+[package]
+name = "vecs_file"
+version = "0.1.0"
+edition = "2021"
+authors = ["fclaude@recoded.cl"]
+description = "vecs file reader (fvecs, ivecs, bvecs)"
+repository = "https://github.com/fclaude/vecs_file"
+readme = "README.md"
+keywords = ["fvecs", "bvecs", "ivecs"]
+license = "MIT"
+
+[dependencies]
+thiserror = "1.0.58"
